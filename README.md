@@ -8,5 +8,5 @@
 
 **Legenda**
 
-- ❌ Primeiro jogador 
-- ⭕ Segundo jogador
+- ❌ Caio1
+- ⭕ Caio2
