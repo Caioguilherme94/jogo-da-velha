@@ -6,7 +6,7 @@
 | B |   |   |   |
 | C |   |   |   |
 
-**Legenda**
+**JOGADORES**
 
 - ❌ Caio1
 - ⭕ Caio2
